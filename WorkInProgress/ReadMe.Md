@@ -29,7 +29,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando um deploy de uma aplicação](https://web.dio.me/lab/criando-um-deploy-de-uma-aplicacao/learning/9343edc6-01b7-44cf-a8bd-9741ee0d6a7c)[Materiais de Apoio](https://web.dio.me/lab/criando-um-deploy-de-uma-aplicacao/learning/c3f8fdf5-8cae-451f-b488-1f3428c26086)
+- [Criando um deploy de uma aplicação](https://web.dio.me/lab/criando-um-deploy-de-uma-aplicacao/learning/9343edc6-01b7-44cf-a8bd-9741ee0d6a7c)
+- [Materiais de Apoio](https://web.dio.me/lab/criando-um-deploy-de-uma-aplicacao/learning/c3f8fdf5-8cae-451f-b488-1f3428c26086)
 
 
 
